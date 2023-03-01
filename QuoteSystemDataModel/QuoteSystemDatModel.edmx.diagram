@@ -4,7 +4,7 @@
   <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
     <!-- Diagram content (shape and connector positions) -->
     <edmx:Diagrams>
-      <Diagram DiagramId="57a7d95d57484cc2a4176f054170e7d7" Name="Diagram1" ZoomLevel="69" >
+      <Diagram DiagramId="57a7d95d57484cc2a4176f054170e7d7" Name="Diagram1" ZoomLevel="77" >
         <EntityTypeShape EntityType="QuoteSystemDatModel.Quote" Width="1.5" PointX="7.625" PointY="0.5" />
         <EntityTypeShape EntityType="QuoteSystemDatModel.PolicyTerm" Width="1.5" PointX="5.125" PointY="0.5" />
         <AssociationConnector Association="QuoteSystemDatModel.PolicyTermQuote" />

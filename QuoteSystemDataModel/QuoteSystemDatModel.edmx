@@ -123,7 +123,7 @@
           <Property Name="BusinessName" Type="String" Nullable="false" />
           <Property Name="IndustryType" Type="String" Nullable="false" />
           <Property Name="Territory" Type="String" Nullable="false" />
-          <Property Name="Exposure" Type="String" Nullable="false" />
+          <Property Name="Exposure" Type="Int32" Nullable="false" />
           <NavigationProperty Name="Coverages" Relationship="QuoteSystemDatModel.BusinessCoverage" FromRole="Business" ToRole="Coverage" />
           <NavigationProperty Name="Address" Relationship="QuoteSystemDatModel.BusinessAddress" FromRole="Business" ToRole="Address" />
         </EntityType>
